@@ -1,0 +1,8 @@
+# _data/navigation.yml
+main:
+  - title: "About Me"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
