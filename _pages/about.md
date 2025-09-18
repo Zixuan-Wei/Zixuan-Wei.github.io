@@ -3,8 +3,7 @@ layout: about
 title: "About Me"
 permalink: /
 subtitle: >
-  Postdoctoral Research Associate, Department of Chemistry, University of Liverpool ·
-  Multiscale modelling of electrochemical and interfacial systems :contentReference[oaicite:0]{index=0}
+  Postdoctoral Research Associate, Department of Chemistry, University of Liverpool
 
 profile:
   align: right
