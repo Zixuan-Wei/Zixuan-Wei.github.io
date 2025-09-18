@@ -8,7 +8,7 @@ subtitle: >
 profile:
   align: right
   image: prof_pic.jpg        # put this at assets/img/prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Department of Chemistry</p>
     <p>University of Liverpool, UK</p>
