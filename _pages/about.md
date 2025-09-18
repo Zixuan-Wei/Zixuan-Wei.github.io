@@ -2,33 +2,43 @@
 layout: about
 title: "About Me"
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Postdoctoral Research Associate, Department of Chemistry, University of Liverpool ·
+  Multiscale modelling of electrochemical and interfacial systems :contentReference[oaicite:0]{index=0}
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg        # put this at assets/img/prof_pic.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Chemistry</p>
+    <p>University of Liverpool, UK</p>
+    <p><a href="mailto:zixuan.wei@liverpool.ac.uk">zixuan.wei@liverpool.ac.uk</a></p>  <!-- email from CV -->
+    <!-- Add office/location here if you want -->
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true        # shows only bib entries with: selected={true}
+social: true                 # shows social icons configured in _config.yml
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a **Postdoctoral Research Associate** in the **Department of Chemistry at the University of Liverpool**, working with **Prof. Alessandro Troisi** (ERC Advanced). My work develops and applies **multiscale simulation** approaches—spanning **QM/MM**, **grand-canonical MD**, and classical MD—to tackle problems in **electrochemistry, soft interfaces, and ionic-electronic conductors**. :contentReference[oaicite:1]{index=1}
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I completed a **PhD in Multiscale Modelling** at the **University of Manchester** (2019–2023), following an **MSc in Chemical Engineering** (2017–2018), where I studied **wettability, nanoconfinement, and electrowetting** in graphitic and 2D materials. :contentReference[oaicite:2]{index=2}
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My recent highlights include:
+- A **QM/MM + GCMD** protocol enabling constant-potential simulations of **polymeric ionic-electronic conductors** and their doping-structure relationships. :contentReference[oaicite:3]{index=3}  
+- **Electrowetting of graphene/electrolyte interfaces**, linking double-layer structure, capacitance, and surface tension (J. Am. Chem. Soc., 2024). :contentReference[oaicite:4]{index=4}  
+- **Wettability and transport in nano-confined water** within graphene/graphite nanoslit channels (Carbon 2022; Nanoscale 2022). :contentReference[oaicite:5]{index=5}
+
+**Interests:** electrochemical interfaces • polymeric ionic-electronic conductors • nanofluidics • wettability • constant-potential simulations • multiscale methods
+
+If you’re interested in collaborating, feel free to reach out at **zixuan.wei@liverpool.ac.uk**. :contentReference[oaicite:6]{index=6}
