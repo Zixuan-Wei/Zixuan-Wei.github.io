@@ -30,9 +30,9 @@ latest_posts:
   limit: 3
 ---
 
-I am a **Postdoctoral Research Associate** in the **Department of Chemistry at the University of Liverpool**, working with **Prof. Alessandro Troisi** (ERC Advanced) and **Prof. Paola Carbone**;. My work develops and applies **multiscale simulation** approaches—spanning **QM/MM**, **grand-canonical MD**, and classical MD—to tackle problems in **soft electrochemical interface, and ionic-electronic conductors**. :contentReference[oaicite:1]{index=1}
+I am a Postdoctoral Research Associate in the Department of Chemistry at the University of Liverpool, working with Prof. Alessandro Troisi (ERC Advanced) and Prof. Paola Carbone. My work mainly develops and applies multiscale simulation approaches—spanning QM/MM and grand-canonical MD to tackle problems in OMIECs (Organic mixed ionic-electronic conductors).
 
-Previously, I completed a **PhD in Multiscale Modelling** at the **University of Manchester** (2019–2023), where I studied **wettability in nanoconfinement and electrical interface** in graphitic and 2D materials. :contentReference[oaicite:2]{index=2}
+Previously, I finished my PhD in Multiscale Modelling at the University of Manchester (2019–2023), where I studied wettability in nanoconfinement and electrical interface.
 
 My recent highlights include:
 - A **QM/MM + GCMD** protocol enabling constant electrochemical potential simulations of **polymeric ionic-electronic conductors** and their doping-structure relationships. :contentReference[oaicite:3]{index=3}  
@@ -41,4 +41,4 @@ My recent highlights include:
 
 **Interests:** electrochemical interfaces • polymeric ionic-electronic conductors • nanofluidics • wettability • constant-potential simulations • multiscale methods
 
-If you’re interested in collaborating, feel free to reach out at **zixuan.wei@liverpool.ac.uk**. :contentReference[oaicite:6]{index=6}
+If you’re interested in collaborating, feel free to reach out at **zixuan.wei@liverpool.ac.uk**.
