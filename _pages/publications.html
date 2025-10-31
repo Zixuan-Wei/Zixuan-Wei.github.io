@@ -1,0 +1,47 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+<!-- Journal Summary in Two Columns -->
+<h2 style="text-align: left; margin-top: 20px;">Journal Summary</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 20px;">
+  {% assign journal_counts = site.publications | group_by: "venue" %}
+  {% for journal in journal_counts %}
+    <div style="width: 48%; margin-bottom: 10px; font-size: 16px;">
+      <strong>{{ journal.name }}</strong> ({{ journal.items | size }})
+    </div>
+  {% endfor %}
+</div>
+
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+
+
