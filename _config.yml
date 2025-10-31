@@ -23,13 +23,13 @@ repository               : "Zixuan-Wei/Zixuan-Wei.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sheng Bi / 毕晟" # Name to display in the sidebar
+  name             : "Zixuan Wei / 魏子瑄" # Name to display in the sidebar
   pronouns         : # example: "she/her"  
-  bio              : "A Computational Chemist, Associate Professor at College of Materials, Xiamen University"
-  location         : "Xiamen, China" # Location to display in the sidebar
-  employer         : "Xiamen University" # Employer to display in the sidebar
+  bio              : "Postdoctoral research accosicate (PDRA) in the University of Liverpool/University of Manchester"
+  location         : "Liverpool, UK" # Location to display in the sidebar
+  employer         : "University of Liverpool" # Employer to display in the sidebar
   uri              : # URL
-  email            : "sheng.bi@xmu.edu.cn" 
+  email            : "2734113253@qq.com" 
 
   # Academic websites
   academia         : # URL
