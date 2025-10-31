@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sheng Bi"
+title                    : "Zixuan Wei"
 title_separator          : "-"
-name                     : &name "Sheng Bi / 毕晟"
-description              : &description "A Computational Chemist, Associate Professor at College of Materials, Xiamen University"
-url                      : https://sheng-bi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Zixuan Wei/ 魏子瑄"
+description              : &description "Postdoctoral research accosicate (PDRA) in the University of Liverpool/University of Manchester"
+url                      : https://Zixuan-Wei.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sheng-bi/sheng-bi.github.io"
+repository               : "Zixuan-Wei/Zixuan-Wei.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
