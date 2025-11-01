@@ -4,8 +4,8 @@ title: "Research projects"
 author_profile: true
 ---
 
-## Constant potential molecular dynamics (CPMD) simulations of supercapacitors
-We develop a constant potential molecular dynamics (CPMD) method to simulate the electrochemical double layer (EDL) at the interface between a solid electrode and an ionic liquid electrolyte. The CPMD method allows us to control the potential of the electrode, enabling us to study the EDL structure and dynamics under realistic conditions. 
+## Simulating OMEICs under constant electrochemical potential
+We developed an innovative simulation protocol of QM/MM + Grand Canonical scheme + classical molecular dynamics simulation (QM/MM + GCMD) where redox species in solution are in equilibrium with an electrode at a controllable electrochemical potential (Φ). During the simulation the redox state of the molecule is allowed to change. Based on this protocol, we study how the microstructure and charge distribution change in the polymer in OMEICs under different constant electrochemical potentials. 
 
 **Highlighted related publications:**
 - ["Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers?." **Journal of Energy Chemistry**, 2024.](/publication/2024-07-01-Constant-charge-method-or-constant-potential-method-Which-is-better-for-molecular-modeling-of-electrical-double-layers)
