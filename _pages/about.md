@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the homepage of Zixuan Wei"
+title: "Welcome to the homepage of Zixuan Wei (魏子瑄)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,5 +20,6 @@ I believe that multiscale modeling is the key to bridging different spatial and 
 - Liquid (aqueous electrolyte)/solid (graphene electrode) interfaces in supercapacitors 
 - Water behavior in the 2D material nanochannels
 - Machine learning for energy materials discovery
+
 
 
