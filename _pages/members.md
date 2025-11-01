@@ -8,4 +8,4 @@ author_profile: true
 ## Myself
 - **[Dr. Zixuan Wei](/cv/)**  
 
-![Dr. Zixuan Wei]({{ '/images/gugua.png' | relative_url }})
+<img src="{{ '/images/gugua.png' | relative_url }}" alt="Dr. Zixuan Wei" width="250">
