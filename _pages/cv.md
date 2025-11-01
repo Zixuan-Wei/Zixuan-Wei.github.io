@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 *	Postdoctoral research associate (2023.05-2025.10)
-- work with the Prof. Alessandro Troisi (ERC Advanced) at the Department of Chemistry, University of Liverpool 
+- Work with the Prof. Alessandro Troisi (ERC Advanced) at the Department of Chemistry, University of Liverpool 
 *	Joint Postdoctoral research associate (2023.05-2025.10)    
 - Work with the Prof. Paola Carbone at the Department of Chemistry, University of Manchester 
 *	Research assistant (2022.04-2023.04)    
