@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# CV
-
 ## Education
 ======
 * Ph.D in Chemical engineering, University of Manchester, 2023
