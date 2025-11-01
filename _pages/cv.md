@@ -37,7 +37,7 @@ Publication
 - **Wei, Z**., Chiricotto, M., Elliott, J., Martelli, F., Carbone, P\*. Wettability of graphite under 2D confinement. **Carbon** 198, 132-141, (2022). DOI: <u>10.1016/j.carbon.2022.07.019</u>		
 - Williams, C. D., **Wei, Z**., Shaharudin, M. R. bin & Carbone, P\*. A molecular simulation study into the stability of hydrated graphene nanochannels used in nanofluidics devices. **Nanoscale** 14, 3467–3479 (2022).	<u>DOI: 10.1039/d1nr08275b</u> 
 
-conference 
+Conference 
 ======
 * Graphene Conference 2023, UK (Poster)                                                                    
 * European/Japanese Molecular Liquids Group 2022, Spain (Poster)                           
