@@ -8,8 +8,8 @@ author_profile: true
 We developed an innovative simulation protocol of QM/MM + Grand Canonical scheme + classical molecular dynamics simulation (QM/MM + GCMD) where redox species in solution are in equilibrium with an electrode at a controllable electrochemical potential (Φ). During the simulation the redox state of the molecule is allowed to change. Based on this protocol, we study how the microstructure and charge distribution change in the polymer in OMEICs under different constant electrochemical potentials. 
 
 **Highlighted related publications:**
-- ["Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers?." **Journal of Energy Chemistry**, 2024.](/publication/2024-07-01-Constant-charge-method-or-constant-potential-method-Which-is-better-for-molecular-modeling-of-electrical-double-layers)
-- ["Co-ion desorption as the main charging mechanism in metallic 1T-MoS2 supercapacitors." **ACS Nano**, 2022.](/publication/2022-11-01-Co-ion-desorption-as-the-main-charging-mechanism-in-metallic-1T-MoS2-supercapacitors)
+**Wei, Z***., Makki, H., Carbone, P*., Troisi, A*. (2025). Simulation of charge distribution and microstructure in semicrystalline polymeric ionic-electronic conductors using classical simulation and constant electrochemical potential. Manuscript.
+**Wei, Z***., Makki, H., Troisi, A*. (2025). The relation between the doping level and structures in semicrystalline polymeric ionic-electronic conductors under the constant electrochemical potential. In preparation.
 
 ## Microscopic modeling of supercapacitors
 We use molecular dynamics simulations to study the structure and dynamics of supercapacitors at the atomic level. We investigate the effects of electrode material, electrolyte composition, and applied potential on the EDL structure, ion transport, and capacitance. We also explore the role of ion solvation structures and ion pairing in determining the EDL properties.
