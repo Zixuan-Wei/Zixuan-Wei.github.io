@@ -4,14 +4,14 @@ title: "Research projects"
 author_profile: true
 ---
 
-## Simulating OMEICs under constant electrochemical potential
-We developed an innovative simulation protocol of QM/MM + Grand Canonical scheme + classical molecular dynamics simulation (QM/MM + GCMD) where redox species in solution are in equilibrium with an electrode at a controllable electrochemical potential (Φ). Based on this protocol, we study how the microstructure and charge distribution change in the polymer in OMEICs under different constant electrochemical potentials. 
+## Simulating atomistic model of OMEICs under constant electrochemical potential method
+We developed an innovative simulation protocol of QM/MM + Grand Canonical scheme + classical molecular dynamics simulation (QM/MM + GCMD) where redox species in solution are in equilibrium with an electrode at a controllable electrochemical potential (Φ). Based on this protocol, we study how the microstructure and charge distribution change in the polymer in OMEICs under different Φ. 
 
 **Highlighted related publications:**
 - **Wei, Z***., Makki, H., Carbone, P*., Troisi, A*. (2025). Simulation of charge distribution and microstructure in semicrystalline polymeric ionic-electronic conductors using classical simulation and constant electrochemical potential. Manuscript.
 - **Wei, Z***., Makki, H., Troisi, A*. (2025). The relation between the doping level and structures in semicrystalline polymeric ionic-electronic conductors under the constant electrochemical potential. In preparation.
 
-## Understanding electrowetting of supercapacitors under constant surface charges
+## Simulating atomistic model of supercapacitors under constant surface charges method
 By combining innovative QM/MD simulations with experimental data, we explained how electrowetting and total capacitance are driven by interfacial hydrogen bond networks and electric double layer structures, respectively 
 
 **Highlighted related publications:**
