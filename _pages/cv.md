@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-##Education
+#Education
 ======
 * Ph.D in Chemical engineering, University of Manchester, 2023
 
-##Work experience
+#Work experience
 ======
 *	Postdoctoral research associate (2023.05-2025.10)
 - Work with the Prof. Alessandro Troisi (ERC Advanced) at the Department of Chemistry, University of Liverpool 
@@ -24,7 +24,7 @@ redirect_from:
 *	Graduate teaching assistant (2019.04-2023.04)     
 - Department of Chemical Engineering, University of Manchester
 
-##Publication
+#Publication
 ======
 - **Wei, Z**\*., Makki, H., Troisi, A\*. (2025). The relation between the doping level and structures in semicrystalline polymeric ionic-electronic conductors under the constant electrochemical potential. In preparation.
 - **Wei, Z**\*., Makki, H., Carbone, P\*., Troisi, A\*. (2025). Simulation of charge distribution and microstructure in semicrystalline polymeric ionic-electronic conductors using classical simulation and constant electrochemical potential. Manuscript.
@@ -36,7 +36,7 @@ redirect_from:
 - **Wei, Z**., Chiricotto, M., Elliott, J., Martelli, F., Carbone, P\*. Wettability of graphite under 2D confinement. **Carbon** 198, 132-141, (2022). DOI: <u>10.1016/j.carbon.2022.07.019</u>		
 - Williams, C. D., **Wei, Z**., Shaharudin, M. R. bin & Carbone, P\*. A molecular simulation study into the stability of hydrated graphene nanochannels used in nanofluidics devices. **Nanoscale** 14, 3467–3479 (2022).	<u>DOI: 10.1039/d1nr08275b</u> 
 
-##Conference 
+#Conference 
 ======
 * Graphene Conference 2023, UK (Poster)                                                                    
 * European/Japanese Molecular Liquids Group 2022, Spain (Poster)                           
@@ -45,7 +45,7 @@ redirect_from:
 * Molecular Simulation 2022: Present, Past and Future, Italy (Poster)                          
 * Midlands Computational Chemistry Meeting, UK  (Oral)                                               
 
-##Skill 
+#Skill 
 ======
 * Software: GROMACS, Gaussian, DFTB+, VASP, CP2K, Materials Studio, Grace, VMD, Origin, Microsoft (Excel, Words, PowerPoint). 
 * Language: Python (Computational language), Chinese, English.
