@@ -7,7 +7,7 @@ author_profile: true
 ## Simulating atomistic model of OMEICs under constant electrochemical potential method
 We developed an innovative simulation protocol of QM/MM + Grand Canonical scheme + classical molecular dynamics simulation (QM/MM + GCMD) where redox species in solution are in equilibrium with an electrode at a controllable electrochemical potential (Φ). Based on this protocol, we study how the microstructure and charge distribution change in the polymer in OMEICs under different Φ.
 
-<img src="{{ '/images/new.png' | relative_url }}" width="600">
+<img src="{{ '/images/new.png' | relative_url }}" width="500">
 
 **Highlighted related publications:**
 - **Wei, Z**\*., Makki, H., Troisi, A\*. (2025). The relation between the doping level and structures in semicrystalline polymeric ionic-electronic conductors under the constant electrochemical potential. In preparation.
@@ -16,7 +16,7 @@ We developed an innovative simulation protocol of QM/MM + Grand Canonical scheme
 ## Simulating atomistic model of supercapacitors under constant surface charges method
 By combining innovative QM/MD simulations with experimental data, we explained how electrowetting and total capacitance are driven by interfacial hydrogen bond networks and electric double layer structures, respectively.
 
-<img src="{{ '/images/jacs.png' | relative_url }}" width="600">
+<img src="{{ '/images/jacs.png' | relative_url }}" width="500">
 
 **Highlighted related publications:**
 - **Wei, Z**., Elliott, J., Papaderakis, A\*., Dryfe, R\*., Carbone, P\*. Relation between double layer structure, capacitance and surface tension in electrowetting of graphene and aqueous electrolytes. **J. Am. Chem. Soc** 146, 760-772, (2024). DOI: <u>10.1021/jacs.3c10814</u>
@@ -25,7 +25,7 @@ By combining innovative QM/MD simulations with experimental data, we explained h
 ## Investigating water behavior under 2D confinement
 We revealed water behavior (structure and dynamics) at the interface and the stability of 2D material nanochannels under different levels of cofinement via MD simulation.
 
-<img src="{{ '/images/carbon.png' | relative_url }}" width="600">
+<img src="{{ '/images/carbon.png' | relative_url }}" width="500">
 
 **Highlighted related publications:**
 - Smith, L., **Wei, Z**., Williams, C., Chiricotto, M., Fonte, C., Carbone, P\*.  Relationship between Capillary Wettability, Mass and Momentum Transfer in Nano-Confined Water: the Case of Water in Nanoslits of Graphite and Hexagonal Boron Nitride. **ACS Applied Materials & Interfaces**, (2024). DOI: <u>10.1021/acsami.4c10738</u>
