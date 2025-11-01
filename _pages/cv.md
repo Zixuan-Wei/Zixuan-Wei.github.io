@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Chemical engineering, University of Manchester, 2023
-* MSC. in Chemical engineering, University of Manchester, 2018
 
 Work experience
 ======
