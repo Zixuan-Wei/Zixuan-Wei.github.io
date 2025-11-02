@@ -36,7 +36,7 @@ redirect_from:
 - Smith, L., **Wei, Z**., Williams, C., Chiricotto, M., Fonte, C., Carbone, P\*.  Relationship between Capillary Wettability, Mass and Momentum Transfer in Nano-Confined Water: the Case of Water in Nanoslits of Graphite and Hexagonal Boron Nitride. **ACS Applied Materials & Interfaces**, (2024). DOI: <u>10.1021/acsami.4c10738</u>
 - Papaderakis, A\*,1., Leketas, M1., **Wei, Z1**., Hwang, I1., Carbone, P1., Juel, A1., Dryfe., R1. Electrowetting of carbon-based materials for advanced electrochemical technologies. **ChemElectroChem** 11, e202400143, (2024). DOI: <u>10.1002/celc.202400143</u> (**co-first author**)
 - **Wei, Z**., Chiricotto, M., Elliott, J., Martelli, F., Carbone, P\*. Wettability of graphite under 2D confinement. **Carbon** 198, 132-141, (2022). DOI: <u>10.1016/j.carbon.2022.07.019</u>		
-- Williams, C. D., **Wei, Z**., Shaharudin, M. R. bin & Carbone, P\*. A molecular simulation study into the stability of hydrated graphene nanochannels used in nanofluidics devices. **Nanoscale** 14, 3467–3479 (2022).	<u>DOI: 10.1039/d1nr08275b</u> 
+- Williams, C. D., **Wei, Z**., Shaharudin, M. R. bin & Carbone, P\*. A molecular simulation study into the stability of hydrated graphene nanochannels used in nanofluidics devices. **Nanoscale** 14, 3467–3479 (2022).	DOI: <u> 10.1039/d1nr08275b</u> 
 
 ## Conference 
 ======
