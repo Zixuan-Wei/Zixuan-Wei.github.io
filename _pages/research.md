@@ -30,7 +30,7 @@ We revealed water behavior (structure and dynamics) at the interface and the sta
 **Highlighted related publications:**
 - Smith, L., **Wei, Z**., Williams, C., Chiricotto, M., Fonte, C., Carbone, P\*.  Relationship between Capillary Wettability, Mass and Momentum Transfer in Nano-Confined Water: the Case of Water in Nanoslits of Graphite and Hexagonal Boron Nitride. **ACS Applied Materials & Interfaces**, (2024). DOI: <u>10.1021/acsami.4c10738</u>
 - **Wei, Z**., Chiricotto, M., Elliott, J., Martelli, F., Carbone, P\*. Wettability of graphite under 2D confinement. **Carbon** 198, 132-141, (2022). DOI: <u>10.1016/j.carbon.2022.07.019</u>		
-- Williams, C. D., **Wei, Z**., Shaharudin, M. R. bin & Carbone, P\*. A molecular simulation study into the stability of hydrated graphene nanochannels used in nanofluidics devices. **Nanoscale** 14, 3467–3479 (2022).	<u>DOI: 10.1039/d1nr08275b</u>
+- Williams, C. D., **Wei, Z**., Shaharudin, M. R. bin & Carbone, P\*. A molecular simulation study into the stability of hydrated graphene nanochannels used in nanofluidics devices. **Nanoscale** 14, 3467–3479 (2022).	DOI: <u> 10.1039/d1nr08275b</u>
 
 ## Simulating SEI formation in the Solid-state battery (a future plan)
 Simulating Solid–Electrolyte Interphase (SEI) formation remains a challenging problem in computational chemistry. I aim to combine Monte Carlo and machine-learning approaches with molecular dynamics (MD) simulations to model SEI formation under a constant electrochemical potential in solid-state batteries.
